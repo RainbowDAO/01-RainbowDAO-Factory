@@ -16,34 +16,34 @@
 - node ≥ 14
 
 ## Network & Contract
-- Network Name: Aurora Testnet
-- RPC URL: https://testnet.aurora.dev
+- Network Name: Rinkeby Test Network
+- RPC URL: https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161
 
 ### contract address
 
 #### DaoFactory
-0xb65daA181D320Eae638C8e71087e7e7C5c00db1b
+0x3cf33889A31666BBD75946e5650CF6e643B2C0B2
 #### Authority
-0xF0b4F15495AE189A1F9e1210861aD47f18aD188f
+0x8bBef131a546d8151297e96C68AE614E5a80037d
 #### DaoBaseInfo
-0xb53E020F21bC17479443d7552F5681538d9De61c
+0xb8Fda38562bd77dD8D2A0335e539D4188DF030a3
 #### DaoManage
-0xDEf7188Bd888e230E7258410EF8a4e6Bee8AaaFF
+0x2b981316D9680443D590914916BeaF7d7A136Bf0
 #### DaoMembers
 0xe1240c60f37ae1CdeC036591C9814c1Fce8d986c
 #### ERC20Factory
-0xa12F0BCc4E25607685F1B27e884fEa008Eb4bD0d
+0x2697c5DAC9c13D9EA97F097ee5E7702d195E28dc
 #### RouteManage
-0x90E7F2c414a066C0995dccDADCd095d3e057cdE4
+0xD1279a3EC682439589B3AACfC5618b74439f8168
 #### Vault
-0x466Dc7d36085e981A7Ec5cb773e9b159f88CFF23
+0xeB317D6422F25887B4Fac0b880aBf4Da6040174F
 #### Vote
 0xf9A3f8eb156B49Ae50ebe0A9e45A46aa22766795
 
 ## Installing
 
 ```bash
-git clone https://github.com/RainbowDAO/04-Hackathon-DAO-factory.git
+git clone https://github.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory.git
 npm install
 ```
 

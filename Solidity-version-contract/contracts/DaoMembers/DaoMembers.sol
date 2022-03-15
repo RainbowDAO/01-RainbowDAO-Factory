@@ -70,9 +70,9 @@ contract DaoMembers{
         
     }
     
-    function getProposalByVoteId(uint voteId) public view returns(Proposal memory){
-        return proposalInfo[voteId];
-    }
+    // function getProposalByVoteId(uint voteId) public view returns(Proposal memory){
+    //     return proposalInfo[voteId];
+    // }
     
     
     
