@@ -448,13 +448,20 @@ contract ERC20MODEL{
     // constructor(address owner,string memory name,string memory symbol,uint totalSupply, uint8 decimals) public ERC20(name, symbol,decimals) {
     //     _mint(owner, totalSupply);
     // }
+    
+    event CreatToken(string tokenName, string symbol,uint indexed index,uint timestamp);
     address public owner;
+    uint public index;
+    address[] public tokenArray;
+    
     constructor(address owner_) public {
         owner = owner_;
     }
     
     function creatToken(string memory tokenName_,string memory symbol_,uint8 decimals_, address owner_,uint totalSupply_) public returns(address){
         address token = address(new ERC20(tokenName_,symbol_,decimals_,owner_,totalSupply_));
+        tokenArray.push(token);
+        index++;
         return token;
     }
 }
