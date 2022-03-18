@@ -1,9 +1,3 @@
-# 01-ETHDenver2022-RainbowDAO-Factory
-
-## RainbowDAO factory system is a multi-chain DAO infrastructure service protocol, focusing on the creation of the basic components of Web3. 
-
-
-
 # Submission for the **ETHDenver 2022 Virtual BUIDLathon**
 
 
