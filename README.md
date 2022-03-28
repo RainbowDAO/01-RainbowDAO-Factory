@@ -30,16 +30,16 @@ Project demo website:
 https://daofactoryethdanver.rainbowdao.io/
 
 GitHub repository :
-https://github.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory
+https://github.com/RainbowDAO/01-RainbowDAO-Factory
 
 Solidity-Version-contract (GitHub): 
-https://github.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/tree/main/Solidity-version-contract
+https://github.com/RainbowDAO/01-RainbowDAO-Factory/tree/main/Solidity-version-contract
 
 Frontend code (GitHub):
-https://github.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/tree/main/Front-end
+https://github.com/RainbowDAO/01-RainbowDAO-Factory/tree/main/Front-end
 
 PIcture (GitHub): 
-https://github.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/tree/main/PIC
+https://github.com/RainbowDAO/01-RainbowDAO-Factory/tree/main/PIC
 
 
 ## 5. Recorded video demo
@@ -85,10 +85,10 @@ Vote:
 0xf9A3f8eb156B49Ae50ebe0A9e45A46aa22766795
 
 Frontend docs:
-https://github.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/blob/main/Front-end/README.md
+https://github.com/RainbowDAO/01-RainbowDAO-Factory/blob/main/Front-end/README.md
 
 Contract  docs:
-https://github.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/blob/main/Solidity-version-contract/README.md
+https://github.com/RainbowDAO/01-RainbowDAO-Factory/blob/main/Solidity-version-contract/README.md
 
 ## 7. Project on social media:
 
@@ -136,7 +136,7 @@ These tools oriented DAO organizations include but not limited to DAO hierarchic
 
 In the last year, as all kinds of DeFi and NFT protocols continue to boom, all governance DAO in different forms have steadily grown. Meanwhile, there came a lasting demand for tools oriented DAO. After a carefully study and research, we found that many tools oriented DAO organizations have existed in the encrypted world but most of them are still in the early phase of development. It is far from meeting the demand for supplying abundant tools and there exist a variety of problems such as:
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/2-Current-problems.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/2-Current-problems.png)
 
 ####  ⑴ Single product function
 
@@ -166,7 +166,7 @@ At present, many DAO tool products  generally have the characteristics of poor i
 
 The six points above are the common problems of the tools oriented DAO products. All these products can not solve the pivotal issues in the DAO organization industry.
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/3-Some-difficulties.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/3-Some-difficulties.png)
 
 
 ⑴  How to establish a clear organizational chart while sticking to decentralizaiton ?
@@ -197,7 +197,7 @@ After two years of endless research and study, the RainbowCtiy foundation team d
 
 With the authorization of the Rainbowcity  Foundation, RainbowDAO  protocol is a multi-chain DAO infrastructure service protocol, focusing on the creation of the basic components of Web3. Anyone can create and manage their own DAO organization through RainbowDAO protocol, using  all different Web 3 tools-kits and features.
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/11-Rainbow-DAO-Protocol.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/11-Rainbow-DAO-Protocol.png)
 
 RainbowDAO Protocol is a multi-chain DAO infrastructure service protocol, providing all kinds of DAO infrastructure facilities and Web3 tools-kits for various DAO organizations on different chains. To better serve all types of DAO organizations, we have built a complete set of DAO infrastructure technical lines focusing on the whole DAO ecosystem., including eight categories of more than 30 independent Web3 tools-kits.
 
@@ -211,7 +211,7 @@ Meanwhile, in the RainbowDAO Protocol, we brought up a new concept of DCV to tak
 
 Inspired by all these above,  we created the complete RainbowDAO protocol. Driven by this philosophy of RainbowDAO protocol, we will gradually  develop more than thirty independent Web tools-kit systems, each of which is an independent module. Among the thirty systems, the core and fundamental one is called RainbowDAO Factory system which can build abundant types of DAO organizations. Centered on DAO factory, we can build other different tool systems.  RainbowDAO Factory system is our first product submitted to NEAR MetaBUILD Hactkathon.  More importantly, RainbowDAO Factory is also the core part of the whole RainbowDAO protocol.
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/4-DCV.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/4-DCV.png)
 
 
 ## 2. What it does？
@@ -223,7 +223,7 @@ Now we emphasize the product structure of the RainbowDAO factory and the logics 
 
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/8-Product-function-display-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/8-Product-function-display-1.png)
 
 ### Product  function display of RainbowDAO Factory:
 
@@ -263,7 +263,7 @@ Most of the management groups above also act as multi-signature management commi
 
 ### Three different versions of RainbowDAO Factory
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/12-Multi-chain-Deployment-Chart.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/12-Multi-chain-Deployment-Chart.png)
 
 
 The RainbowDAO Factory System is part of the RainbowDAO protocol. According to our original plan, the RainbowDAO Protocol has three versions: RainbowDAO Protocol Solidity, RainbowDAO Protocol Ink! and RainbowDAO Protocol Near. All of them can be deployed on different smart contract platforms so the DAO Factory System has three different versions as well, which will also be deployed on our future multi-chains.
@@ -280,7 +280,7 @@ As to the upcoming NEAR MetaBUILD Hackathon, two versions of the RainbowDAO Fact
 ### The main components of the RainbowDAO Factory contract
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/10-Factory-Contract-Design-Chart.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/10-Factory-Contract-Design-Chart.png)
 
 RainbowDAO Factory system is mainly used for the creation and management of various types of DAO organizations.
 RainbowDAO Factory contract can be divided into three parts. The first part is DAO type contract. These types are of independent DAO, alliance DAO and parent-child DAO. That determines the basic attribute of the established DAO.
@@ -302,7 +302,7 @@ In order to better meet the needs of the DAO industry, through the RainbowDAO Pr
 
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/5-Three-major-innovations.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/5-Three-major-innovations.png)
 
 
 
@@ -373,7 +373,7 @@ In the process of developing the RainbowDAO Protocol and RainbowDAO Factory Syst
 
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/6-Eight-features.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/6-Eight-features.png)
 
 
 
@@ -413,7 +413,7 @@ Based on the first seven features, the RainbowDAO Protocol will evolve into a li
 ### Eight concepts of RainbowDAO Factory
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-ETHDenver2022-RainbowDAO-Factory/main/PIC/RainbowDAO/7-Eight-concepts.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/RainbowDAO/7-Eight-concepts.png)
 
 
 ####  ⑴ Decentralization：
