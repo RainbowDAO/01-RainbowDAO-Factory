@@ -24,10 +24,10 @@ RainbowCity Foundation submitted a total of 9 projects, which is the  address di
 
 
 Submission address directory:
-www.rainbowdao.io/ETHDanver2022
+www.rainbowdao.io/project
 
 Project demo website:
-https://daofactoryethdanver.rainbowdao.io/
+https://daofactory.rainbowdao.io/
 
 GitHub repository :
 https://github.com/RainbowDAO/01-RainbowDAO-Factory
