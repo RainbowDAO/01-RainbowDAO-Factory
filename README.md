@@ -20,8 +20,6 @@ RainbowCity Foundation
 
 ## 4. Submission links
 
-RainbowCity Foundation submitted a total of 9 projects, which is the  address directory of the 9 projects. We are continuing to refine the details of each project.
-
 
 Submission address directory:
 www.rainbowdao.io/project
@@ -274,8 +272,6 @@ RainbowDAO Protocol Ink! will be deployed on all Wasm supportive para-chains wit
 
 In the future, as the RainbowDAO Protocol expands , we will develop new versions for other new public chains such as Solana, Terra, Agorand and Cosmos. Meanwhile, as the DAO ecology evolves, we will surely develop DAO infrastructure products that are based on chains and comprise of substrate. At one hand, this would be a para-chain of the Polkadot ecology and on the other hand, it would become an applied chian on the Octopus Network of Near ecology. However, all these chain-formed DAO infrastructure products would be under the development of the RainbowCity Foundation , out of the range of RainbowDAO Protocol.
 
-As to the upcoming NEAR MetaBUILD Hackathon, two versions of the RainbowDAO Factory Protocol will be submitted: Near and Solidity. The former is deployed on the test net of Near while the latter deployed on the test net of Aurora Network. Apart from the contracts' code, we'll also submit the early stage development files and UI design files to showcase a full picture of the product design philosophy and expressive forms to of the RainbowDAO factory.
-
 
 ### The main components of the RainbowDAO Factory contract
 
@@ -472,37 +468,37 @@ In the next stage, we will focus on polishing the contracts, especially the cros
 ## 1-Create-Alliance
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/1-DAO-Alliance/1-Create-Alliance.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/1-Create-Alliance.png)
 
 
 ## 2-Create-Alliance
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/1-DAO-Alliance/2-Create-Alliance.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/2-Create-Alliance.png)
 
 
 ## 3-Create-Alliance
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/1-DAO-Alliance/3-Create-Alliance.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/3-Create-Alliance.png)
 
 
 ## 4-Create-Alliance
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/1-DAO-Alliance/4-Create-Alliance.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/4-Create-Alliance.png)
 
 
 ## 5-DAO-Joins Alliance
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/1-DAO-Alliance/5-DAO-Joins%20Alliance.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/5-DAO-Joins%20Alliance.png)
 
 
 ## 6-DAO-Alliance Home
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/1-DAO-Alliance/6-DAO-Alliance%20Home.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/6-DAO-Alliance%20Home.png)
 
 
 ## 2.2-DAO-Organization:
@@ -511,73 +507,73 @@ In the next stage, we will focus on polishing the contracts, especially the cros
 ## 1-Create-DAO
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/1-Create-DAO.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/1-Create-DAO.png)
 
 
 ## 2-Create-DAO
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/2-Create-DAO.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/2-Create-DAO.png)
 
 
 ## 3-Create-DAO
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/3-Create-DAO.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/3-Create-DAO.png)
 
 
 ## 4-Create-DAO
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/4-Create-DAO.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/4-Create-DAO.png)
 
 
 ## 5-Create-DAO
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/5-Create-DAO.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/5-Create-DAO.png)
 
 
 ## 6-DAO-Home
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/6-DAO-Home.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/6-DAO-Home.png)
 
 
 ## 7-DAO-Finance
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/7-DAO-Finance.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/7-DAO-Finance.png)
 
 
 ## 8-DAO-Member
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/8-DAO-Member.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/8-DAO-Member.png)
 
 
 ## 9-DAO-Proposal
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/9-DAO-Proposal.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/9-DAO-Proposal.png)
 
 
 ## 10-DAO-Proposal-Details
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/10-DAO-Proposal-Details.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/10-DAO-Proposal-Details.png)
 
 
 ## 11-DAO-Proposal-Vote
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/11-DAO-Proposal-Vote.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/11-DAO-Proposal-Vote.png)
 
 
 ## 12-Initiate-proposal
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/2-DAO-Organization/12-Initiate-proposal.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/2-DAO-Organization/12-Initiate-proposal.png)
 
 
 ## 3.3-Child-DAO:
@@ -586,37 +582,37 @@ In the next stage, we will focus on polishing the contracts, especially the cros
 ## 1-Create-Child-DAOs
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/3-Child-DAO/1-Create-Child-DAOs.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/3-Child-DAO/1-Create-Child-DAOs.png)
 
 
 ## 2-Create-Child-DAOs
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/3-Child-DAO/2-Create-Child-DAOs.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/3-Child-DAO/2-Create-Child-DAOs.png)
 
 
 ## 3-Create-Child-DAOs
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/3-Child-DAO/3-Create-Child-DAOs.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/3-Child-DAO/3-Create-Child-DAOs.png)
 
 
 ## 4-Create-Child-DAOs
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/3-Child-DAO/4-Create-Child-DAOs.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/3-Child-DAO/4-Create-Child-DAOs.png)
 
 
 ## 5-Create-Child-DAOs
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/3-Child-DAO/5-Create-Child-DAOs.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/3-Child-DAO/5-Create-Child-DAOs.png)
 
 
 ## 6-Child-DAOs-Home
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/3-Child-DAO/6-Child-DAOs-Home.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/3-Child-DAO/6-Child-DAOs-Home.png)
 
 
 ## 4.4-DAO-Department:
@@ -625,16 +621,16 @@ In the next stage, we will focus on polishing the contracts, especially the cros
 ## 1-Create-Department
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/4-DAO-Department/1-Create-Department.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/4-DAO-Department/1-Create-Department.png)
 
 
 ## 2-Department-Home
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/4-DAO-Department/2-Department-Home.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/4-DAO-Department/2-Department-Home.png)
 
 
 ## 3-Department-List
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/METATHON-RainbowDAO-Factory/main/pic/4-DAO-Department/3-Department-List.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/4-DAO-Department/3-Department-List.png)
