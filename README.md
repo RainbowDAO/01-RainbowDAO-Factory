@@ -526,13 +526,13 @@ In the next stage, we will focus on polishing the contracts, especially the cros
 ## 5-DAO-Joins Alliance
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/5-DAO-Joins%20Alliance.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/5-DAO-Joins-Alliance.png)
 
 
 ## 6-DAO-Alliance Home
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/6-DAO-Alliance%20Home.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/01-RainbowDAO-Factory/main/PIC/1-DAO-Alliance/6-DAO-Alliance-Home.png)
 
 
 ## 2.2-DAO-Organization:
