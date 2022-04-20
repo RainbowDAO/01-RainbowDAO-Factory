@@ -42,9 +42,7 @@ https://github.com/RainbowDAO/01-RainbowDAO-Factory/tree/main/PIC
 
 ## 5. Recorded video demo
 
-https://youtu.be/CwFmlrUJzIc
-
-
+https://youtu.be/RSaE5JZaMUM
 
 ## 6. Testnet Deployment Information
 
