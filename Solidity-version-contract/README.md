@@ -65,3 +65,4 @@ The creatDao in the DaoMain contract creates a DAO of its own, defining names, l
 
 ```creatDaoWithNewToken()``` or ```creatDao()```
 
+
