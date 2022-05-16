@@ -78,14 +78,7 @@
                   <input type="text" v-model="tokenInfo.symbol" placeholder="Enter">
                 </div>
               </div>
-              <!--              <div class="item">-->
-              <!--                <div class="name">-->
-              <!--                  Token Contract Address-->
-              <!--                </div>-->
-              <!--                <div class="input">-->
-              <!--                  <input type="text" v-model="tokenInfo.address" placeholder="Enter">-->
-              <!--                </div>-->
-              <!--              </div>-->
+    
               <div class="item">
                 <div class="name">
                   Token Decimals
