@@ -98,6 +98,4 @@ contract Vault{
         return transferArray[index];
     } 
     
-    
-    
 }

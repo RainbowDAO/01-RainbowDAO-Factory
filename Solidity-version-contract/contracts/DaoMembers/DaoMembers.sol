@@ -92,7 +92,6 @@ contract DaoMembers{
         return members.at(index);
     }
     
-
     
     
 }
