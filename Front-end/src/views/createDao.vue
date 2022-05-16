@@ -25,14 +25,7 @@
                   <input type="text" v-model="daoInfo.name" placeholder="Enter">
                 </div>
               </div>
-              <!--              <div class="item">-->
-              <!--                <div class="name">-->
-              <!--                  DAO Symbol-->
-              <!--                </div>-->
-              <!--                <div class="input">-->
-              <!--                  <input type="text" v-model="daoInfo.symbol" placeholder="Enter">-->
-              <!--                </div>-->
-              <!--              </div>-->
+       
               <div class="item">
                 <div class="name">
                   DAO Logo
