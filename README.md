@@ -371,6 +371,7 @@ As our goal is to meet all the demands of DAO organizations in the whole DAO ind
 
 Once the logics behind the products are determined, how to make the product into reality through technical application was our great challenge. After our team's endless study, based on the product logics, we gradually concluded the technical application structure.
 
+
 ###  (5) How to coordinate between different modules and different contracts ?
 
 As the RainbowDAO Factory Protocol is huge,  the break-down and combination of the protocol became a real problem. How to coordinate among different contracts was also a great challenge.
