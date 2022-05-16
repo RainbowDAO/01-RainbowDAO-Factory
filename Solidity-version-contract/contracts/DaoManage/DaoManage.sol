@@ -153,9 +153,6 @@ contract DaoManage{
         return members.at(index);
     }
     
-  
-    
-    
     
 }
 
