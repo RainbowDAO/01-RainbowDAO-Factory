@@ -155,4 +155,3 @@ contract Vote{
 }
 
 
-
